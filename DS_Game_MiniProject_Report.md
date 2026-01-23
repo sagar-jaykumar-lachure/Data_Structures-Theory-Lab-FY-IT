@@ -1,4 +1,5 @@
-# Project Title : <Name of the Project>
+# Mini-Project Report Template for the developed Game using Data Structures 
+## Project Title : <Name of the Project>
 #### Student Name : <Name>      
 #### Class : D6AD-B
 #### Roll No : <No>
