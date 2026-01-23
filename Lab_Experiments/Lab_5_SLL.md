@@ -1,4 +1,4 @@
-# Experiment  - 4 : Implement a Singly Linked List
+# Experiment  - 5 : Implement a Singly Linked List
 ## Theory :
 - What is a Singly Linked List?
 - List all the operations to be performed on a Singly Linked List.
