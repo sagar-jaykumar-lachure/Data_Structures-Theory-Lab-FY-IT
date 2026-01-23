@@ -1,4 +1,4 @@
-# Experiment  - 11 : Implement Sorting Techniques
+# Experiment  - 12 : Implement Sorting Techniques
 - Quick Sort
 - Heap Sort
 - Bucket Sort
