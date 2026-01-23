@@ -184,7 +184,7 @@ Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types
 5. Jean Paul Tremblay, P. G. Sorenson, “Introduction to Data Structure and Its Applications”, McGraw-Hill Higher Education
 6. Data Structures Using C, ISRD Group, 2  Edition, Tata McGraw-Hill.
    
-## Refernces :
+## References :
 1. Prof. P. S. Deshpande, Prof. O. G. Kakde, “C and Data Structures”, DreamTech press.
 2. E. Balagurusamy, “Data Structure Using C”, Tata McGraw-Hill Education India.
 3. Rajesh K Shukla, “Data Structures using C and C++”, Wiley-India
