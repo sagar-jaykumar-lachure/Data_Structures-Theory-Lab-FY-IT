@@ -6,7 +6,7 @@
 ## Program :
 - Print out of complete program
 ## Output :
-- Attach Output considering
+- Attach Output 
 ## Conclusion :
 - Understood the logic of the following Applications of Stack
   - Check whether the input expression has balanced Parenthesis
