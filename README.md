@@ -1,6 +1,6 @@
 # Course : Data Structures Theory & Lab (NADPC32)
 - Faculty Incharge : [S S Lachure](mailto:sslachure@it.vjti.ac.in)
-- [Lab and Theory - Syllabus Link](https://github.com/LifnaJos/DataStructures/blob/main/DS%20and%20DS%20Lab%20NEP%20Syllbus.pdf)
+- [Lab and Theory - Syllabus Link]([https://github.com/LifnaJos/DataStructures/blob/main/DS%20and%20DS%20Lab%20NEP%20Syllbus.pdf](https://vjti.ac.in/wp-content/uploads/2024/05/New-FY-BTech-CE-IT-Syllabus-Semester-I-II_Jan_16_2024.pdf))
 
 ## [Data Structures Lab Instructions](https://github.com/LifnaJos/DataStructures/blob/main/Data%20Structures%20Lab%20Instructions.md)
 
