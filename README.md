@@ -1,5 +1,5 @@
 # Course : Data Structures Theory & Lab (NADPC32)
-- Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
+- Faculty Incharge : [S S Lachure](mailto:sslachure@it.vjti.ac.in)
 - [Lab and Theory - Syllabus Link](https://github.com/LifnaJos/DataStructures/blob/main/DS%20and%20DS%20Lab%20NEP%20Syllbus.pdf)
 
 ## [Data Structures Lab Instructions](https://github.com/LifnaJos/DataStructures/blob/main/Data%20Structures%20Lab%20Instructions.md)
@@ -8,12 +8,12 @@
 
 | No | Rubrics | Marks | Document / Schedule |
 | :--: | ------------------ | :----: |:----------: |
-| 1 | End Semester Exam | 60 Marks | [Old University Papers](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/tree/main/Old%20Question%20Papers#readme) , [Practice Problems](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/NADPC32_DS_SampleProblems.pdf) , [DS-Sol-Dec-2024](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/NADPC32_012024-25_Solution.pdf) |
-| 2 | Internal Assessment | 20 Marks | [DS-MT-QP-2024](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_SE_III_QP_24-25.pdf), [DS-MT-QP-Sol-2024](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_SE_III_QP_24-25_Sol.pdf)|
-| 3 | Continuous Assessment | 20 Marks | |
-|   | a. MCQ  | 10 Marks | 10th Oct 2024 [MCQ with Solution](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_CA-2_MCQ_D6AD-B_2024-25.pdf)|
-|   | b. Mini-Project | 10 Marks | [Mini Project Report Format](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_Game_MiniProject_Report.md) |
-|   | c. Programming Test on HackerRank | 10 Marks | [19th Sept 2024](https://www.hackerrank.com/d6ad-b-ca-1)|
+| 1 | End Semester Exam | 50 Marks | [Old University Papers](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/tree/main/Old%20Question%20Papers#readme) , [Practice Problems](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/NADPC32_DS_SampleProblems.pdf) , [DS-Sol-Dec-2024](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/NADPC32_012024-25_Solution.pdf) |
+| 2 | Mid Semester Exam | 30 Marks | [DS-MT-QP-2024](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_SE_III_QP_24-25.pdf), [DS-MT-QP-Sol-2024](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_SE_III_QP_24-25_Sol.pdf)|
+| 3 | Continuous Assessment/ Internal Assessment | 20 Marks | |
+|   | a. MCQ  | -- Marks | 10th Oct 2024 [MCQ with Solution](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_CA-2_MCQ_D6AD-B_2024-25.pdf)|
+|   | b. Mini-Project | -- Marks | [Mini Project Report Format](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_Game_MiniProject_Report.md) |
+|   | c. Programming Test on HackerRank | -- Marks | [19th Sept 2024](https://www.hackerrank.com/d6ad-b-ca-1)|
 |   | Total Marks | 100 Marks | |
 
 #### Note : 
